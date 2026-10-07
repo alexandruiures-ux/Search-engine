@@ -1,4 +1,3 @@
-/*IURES Alexandru-Marian - 311CB*/
 #include "stdio.h"
 #include "stdlib.h"
 #include "string.h"
